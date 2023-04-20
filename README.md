@@ -22,7 +22,7 @@ import { convert } from 'clone-url-converter';
 
 const httpsLink = 'https://github.com/username/repo.git';
 const sshLink = convert(httpsLink);
-console.log(sshLink); // git@github.com:username/repo
+console.log(sshLink); // git@github.com:username/repo.git
 ```
 
 The convert function will throw an error if the input is not a valid GitHub clone URL.
