@@ -11,7 +11,7 @@ npm install clone-url-converter
 ```
 
 ```bash
-yarn install clone-url-converter
+yarn add clone-url-converter
 ```
 
 ## Usage
