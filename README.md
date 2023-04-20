@@ -1,6 +1,6 @@
 # clone-url-converter
 
-A simple npm package for converting GitHub's Http/Https clone links to SSH format.
+A simple npm/yarn package for converting GitHub's Http/Https clone links to SSH format and vice versa.
 
 ## Installation
 
@@ -8,6 +8,10 @@ To install the package, run the following command:
 
 ```bash
 npm install clone-url-converter
+```
+
+```bash
+yarn install clone-url-converter
 ```
 
 ## Usage
@@ -33,4 +37,3 @@ If you encounter any issues or bugs, please report them in the GitHub issue trac
 Contributions are welcome! If you have any improvements or bug fixes, please submit a pull request to the GitHub repository for this project.
 
 For more information, see the GitHub repository: https://github.com/manvirdev/clone-url-converter
-
