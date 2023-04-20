@@ -1,0 +1,8 @@
+{
+  "name": "clone-url-converter",
+  "version": "1.0.1",
+  "description": "A simple yarn package for converting GitHub's Http/Https clone links to SSH format and vice versa.",
+  "main": "index.ts",
+  "author": "Manvir Heer <manvirheer007@gmail.com>(manvirheer007@gmail.com)",
+  "license": "MIT"
+}
