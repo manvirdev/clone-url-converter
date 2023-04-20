@@ -1,0 +1,11 @@
+{
+  "name": "clone-url-converter",
+  "version": "1.0.0",
+  "description": "Convert GitHub's Http/Https link to SSH link and vice versa.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manvir Heer <manvirheer007@gmail.com>(manvirheer007@gmail.com)",
+  "license": "MIT"
+}
