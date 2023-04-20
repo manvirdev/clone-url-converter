@@ -1,6 +1,6 @@
 {
   "name": "clone-url-converter",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "packageManager": "yarn@3.5.0",
   "description": "A simple npm/yarn package for converting GitHub's Http/Https clone links to SSH format and vice versa.",
   "main": "index.js",
